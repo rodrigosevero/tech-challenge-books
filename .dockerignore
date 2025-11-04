@@ -1,0 +1,11 @@
+.venv
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+.env
+.vscode
+.idea
+# mantenha o CSV!
+# data/*.csv  # NÃO ignore o CSV

@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+# dados
+data/*.csv
+# editor
+.vscode/
+.idea/

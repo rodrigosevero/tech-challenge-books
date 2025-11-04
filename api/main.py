@@ -2,6 +2,8 @@
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from api.routers import health as health_router
+from api.routers import books as books_router
+from api.routers import categories as categories_router
 
 app = FastAPI(
     title="Books API (Tech Challenge)",
@@ -17,3 +19,5 @@ app.add_middleware(
 )
 
 app.include_router(health_router.router)
+app.include_router(books_router.router)
+app.include_router(categories_router.router)

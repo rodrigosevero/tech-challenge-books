@@ -58,8 +58,8 @@ Usuários / Dashboards / ML
 
 ### 1️⃣ Clonar o repositório
 ```bash
-git clone https://github.com/seuusuario/books-api.git
-cd books-api
+git clone https://github.com/rodrigosevero/tech-challenge-books
+cd tech-challenge-books
 ```
 
 ### 2️⃣ Criar ambiente virtual
@@ -92,8 +92,8 @@ uvicorn api.main:app --reload
 ## 🌍 Deploy em Produção
 A API está disponível publicamente no Render:
 
-🔗 **Link público:** [ADICIONE_AQUI_SEU_LINK_RENDER]  
-🩺 **Health check:** [ADICIONE_AQUI_SEU_LINK_RENDER/api/v1/health]
+🔗 **Link público:** https://tech-challenge-books-pikw.onrender.com
+🩺 **Health check:** https://tech-challenge-books-pikw.onrender.com/api/v1/health
 
 ---
 

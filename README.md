@@ -98,7 +98,7 @@ A API está disponível publicamente no Render:
 ---
 
 ## 📹 Demonstração em Vídeo
-🎥 [Assista à apresentação no YouTube](https://youtu.be/SEU-LINK-AQUI)
+🎥 [Assista à apresentação no YouTube](https://www.youtube.com/watch?v=YaP3vbroCmc)
 
 O vídeo mostra:
 - Pipeline de scraping e geração do CSV.
